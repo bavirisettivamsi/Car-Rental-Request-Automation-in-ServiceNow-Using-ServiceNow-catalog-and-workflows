@@ -1,0 +1,2 @@
+# Car-Rental-Request-Automation-in-ServiceNow-Using-ServiceNow-catalog-and-workflows
+This project aims to automate the process of car rental requests within an organization using ServiceNow’s Service Catalog and Workflow capabilities. By integrating these features, the goal is to provide a seamless and efficient experience for employees or users requesting rental cars for business-related purposes. 
